@@ -1,2 +1,3 @@
 # entgra-automation
-This repository mainly created for API and UI automation at Entgra 
+This repository is mainly using for automation pourposes and both API and UI automation test cases at Entgra should be added here. 
+
